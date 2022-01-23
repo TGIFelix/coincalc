@@ -1,5 +1,5 @@
 {
-  "name": "zeroxcli",
+  "name": "coincalc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,12 +7,12 @@
     "crypto",
     "ethereum",
     "api",
-    "cli"
+    "cli",
+    "calculator"
   ],
   "author": "Felix Swinkels",
   "license": "unlicense",
   "dependencies": {
-    "axios": "^0.25.0",
-    "figlet": "^1.5.2"
+    "axios": "^0.25.0"
   }
 }
